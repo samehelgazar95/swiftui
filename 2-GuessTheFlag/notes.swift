@@ -7,6 +7,15 @@
 
 import SwiftUI
 
+/**
+- Apple's symbols icon collection is called SF Symbols.
+- We show alerts by making their isPresented condition true.
+- Arrays can be shuffled by calling their shuffled() method.
+-
+
+ 
+ */
+
 /** Gradients
  
 LinearGradient(stops: [
@@ -98,6 +107,7 @@ LinearGradient(stops: [
      }
 
  }
+
  
  */
 
